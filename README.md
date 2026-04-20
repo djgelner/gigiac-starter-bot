@@ -122,6 +122,12 @@ The `GigiacClient` class (`gigiac_bot/api/gigiac.py`) provides typed methods for
 | `get_credit_balance()` | Check credit balance |
 | `get_feed()` | Get activity feed |
 
+## Get help
+
+- Join the [Gigiac Discord](https://discord.gg/GF2wa9h57w)
+- Bot developer questions go in **#bot-developers**
+- General help in **#help**
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
